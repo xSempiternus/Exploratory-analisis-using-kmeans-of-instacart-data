@@ -1,60 +1,60 @@
-# Explora los Datos de Instacart: Descubre Perspectivas con K-Means
+# Explore Instacart Data: Uncover Insights with K-Means
 
-## Resumen
+## Overview
 
-Este repositorio te invita a explorar patrones de compras de comestibles utilizando el algoritmo de clustering K-Means. Nuestro objetivo es revelar patrones e ideas que arrojen luz sobre el comportamiento de compra de los clientes.
+This repository takes you on an exploration of grocery shopping patterns using the K-Means clustering algorithm. Our aim is to reveal patterns and insights that shed light on customer purchasing behavior.
 
-## Conjunto de Datos
+## Dataset
 
-Los datos que hemos utilizado provienen directamente de Instacart, los pioneros en entrega de comestibles. Nuestro conjunto de datos ofrece una vista integral de transacciones de compra, detalles de productos e información valiosa del cliente que es relevante para este trabajo.
+The data we've utilized comes directly from Instacart, the pioneers in grocery delivery. Our dataset provides a comprehensive view of purchase transactions, product details, and valuable customer information that is relevant to this work.The data set can be found in this direction: https://drive.google.com/file/d/1VBrZCXswH7Sd4ovUbidBMN7rCVOHCHSj/view?usp=sharing
 
-**Fuentes de Datos:**
-- Datos de Pedidos
-- Detalles de Productos
-- Información del Cliente
+**Data Sources:**
+- Order Data
+- Product Details
+- Customer Information
 
-## Primeros Pasos
+## Getting Started
 
-Primero, debes instalar las bibliotecas de Python necesarias:
+First, you have to install the necessary Python libraries:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-## Cómo Utilizar
+## How to Use
 
-1. Descarga los conjuntos de datos de Instacart y guárdalos en el directorio `data/`.
-2. Ejecuta el script principal, `exploratory_analysis.py`, para iniciar el análisis exploratorio:
+1. Download the Instacart datasets and store them in the `data/` directory.
+2. Execute the main script, `exploratory_analysis`, to kick off the exploratory analysis:
 
 ```bash
 python exploratory_analysis.py
 ```
 
-3. Explora los resultados y visualizaciones generadas en el directorio `reports/`.
+3. Explore the outcomes and visualizations generated in the `reports/` folder.
 
-## Estructura del Proyecto
+## Project Structure
 
-- `data/`: Contiene los conjuntos de datos de Instacart.
-- `src/`: Código fuente en Python.
-  - `notebooks/`: Muestra los cuadernos Jupyter del análisis exploratorio.
-- `reports/`: Encuentra los resultados y visualizaciones aquí.
+- `data/`: Houses the Instacart datasets.
+- `src/`: Python source code.
+  - `notebooks/`: Shows the Jupyter notebooks of exploratory analysis.
+- `reports/`: Find the results and visualizations here.
 
-## Conclusiones Clave
+## Key Findings
 
-Nuestro análisis exploratorio revela:
+Our exploratory analysis brings forth:
 
-- Estadísticas descriptivas que ofrecen perspectivas sobre los datos.
-- Visualizaciones que representan la distribución de productos y clientes.
-- Implementación de K-Means para la segmentación de clientes.
-- Representaciones visuales de los clusters formados por K-Means.
+- Descriptive statistics offering insights into the data.
+- Visualizations depicting the distribution of products and customers.
+- Implementation of K-Means for customer segmentation.
+- Visual representations of clusters formed by K-Means.
 
-## Únete a la Conversación
+## Join the Conversation
 
-¿Quieres contribuir o informar problemas? Abre un problema en el [repositorio](https://github.com/tuusuario/instacart-kmeans).
+Want to contribute or report issues? Open an issue in the [repository](https://github.com/xSempiternus/Exploratory-analisis-using-kmeans-of-instacart-data).
 
-## Recursos
+## Resources
 
-- [Documentación de scikit-learn](https://scikit-learn.org/stable/documentation.html)
-- [Conjunto de Datos de Instacart](https://www.instacart.com/datasets/grocery-shopping-2017)
+- [scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
+- [Instacart Dataset](https://www.instacart.com/datasets/grocery-shopping-2017)
 
-¡Gracias por explorar estas perspectivas con nosotros!
+Thank you for exploring these insights with us!

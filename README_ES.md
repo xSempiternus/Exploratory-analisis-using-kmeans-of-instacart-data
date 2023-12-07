@@ -6,7 +6,7 @@ Este repositorio te invita a explorar patrones de compras de comestibles utiliza
 
 ## Conjunto de Datos
 
-Los datos que hemos utilizado provienen directamente de Instacart, los pioneros en entrega de comestibles. Nuestro conjunto de datos ofrece una vista integral de transacciones de compra, detalles de productos e información valiosa del cliente que es relevante para este trabajo.
+Los datos que hemos utilizado provienen directamente de Instacart, los pioneros en entrega de comestibles. Nuestro conjunto de datos ofrece una vista integral de transacciones de compra, detalles de productos e información valiosa del cliente que es relevante para este trabajo.Los datos se encuentran en la siguiente direccion: https://drive.google.com/file/d/1VBrZCXswH7Sd4ovUbidBMN7rCVOHCHSj/view?usp=sharing
 
 **Fuentes de Datos:**
 - Datos de Pedidos
@@ -50,7 +50,7 @@ Nuestro análisis exploratorio revela:
 
 ## Únete a la Conversación
 
-¿Quieres contribuir o informar problemas? Abre un problema en el [repositorio](https://github.com/tuusuario/instacart-kmeans).
+¿Quieres contribuir o informar problemas? Abre un problema en el [repositorio](https://github.com/xSempiternus/Exploratory-analisis-using-kmeans-of-instacart-data).
 
 ## Recursos
 
